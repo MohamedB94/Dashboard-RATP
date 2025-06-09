@@ -99,6 +99,16 @@ Pipeline-RATP/
    - Stockage optimisé dans MySQL
    - Requêtes optimisées pour les performances
 
+## ⚠️ Disclaimer
+
+Ce projet a été développé dans un temps limité et présente certaines limitations :
+
+- Les données affichées peuvent ne pas être 100% fiables ou à jour
+- La synchronisation avec l'API RATP pourrait nécessiter des optimisations
+- Certaines fonctionnalités pourraient être améliorées ou optimisées
+- La gestion des erreurs et des cas limites pourrait être renforcée
+
+Ces points sont identifiés comme des axes d'amélioration pour les futures versions du projet.
 
 ## 📝 Licence
 
@@ -111,4 +121,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 🙏 Remerciements
 
 - RATP pour l'API de données
-
